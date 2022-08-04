@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lingaraj Swain.
-- 👀 I’m interested in Web Development and ethical hacker.
+- 👀 I’m interested in Full Stack Development and ethical hacker.
 - 🌱 I’m currently working in TCS.
 - 💞️ I’m looking to collaborate on Coding.
 - 📫 How to reach me https://www.linkedin.com/in/lingaraj-swain-aba20b16a
